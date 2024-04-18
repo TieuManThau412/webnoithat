@@ -1,0 +1,231 @@
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\ShopPhone.dll.config
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\ShopPhone.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\ShopPhone.pdb
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\csc.exe
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\csc.exe.config
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\csc.rsp
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\csi.exe
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\csi.exe.config
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\csi.rsp
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.AppContext.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Console.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.Compression.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Claims.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.ValueTuple.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\vbc.exe
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\vbc.exe.config
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\vbc.rsp
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\VBCSCompiler.exe
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\EntityFramework.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\EntityFramework.SqlServer.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\PagedList.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\PagedList.Mvc.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Helpers.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Mvc.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Razor.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.Razor.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\EntityFramework.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\EntityFramework.SqlServer.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\PagedList.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\PagedList.Mvc.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Razor.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.Razor.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Helpers.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\System.Web.Mvc.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.csproj.AssemblyReference.cache
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.csproj.CoreCompileInputs.cache
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.csproj.CopyComplete
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.dll
+C:\Users\vanhu\Downloads\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.pdb
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\ShopPhone.dll.config
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\ShopPhone.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\ShopPhone.pdb
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\csc.exe
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\csc.exe.config
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\csc.rsp
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\csi.exe
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\csi.exe.config
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\csi.rsp
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.AppContext.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Console.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.Compression.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Claims.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.ValueTuple.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\vbc.exe
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\vbc.exe.config
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\vbc.rsp
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\VBCSCompiler.exe
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\EntityFramework.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\EntityFramework.SqlServer.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\PagedList.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\PagedList.Mvc.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Helpers.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Mvc.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Razor.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.Razor.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\EntityFramework.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\EntityFramework.SqlServer.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\PagedList.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\PagedList.Mvc.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Razor.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Webpages.Razor.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Helpers.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\System.Web.Mvc.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.csproj.AssemblyReference.cache
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.csproj.CoreCompileInputs.cache
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.csproj.CopyComplete
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.dll
+C:\Users\vanhu\OneDrive\Máy tính\Desktop\Shopphone\ShopLinhKien\ShopPhone\obj\Debug\ShopPhone.pdb
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\ShopPhone.dll.config
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\ShopPhone.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\ShopPhone.pdb
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\csc.exe
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\csc.exe.config
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\csc.rsp
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\csi.exe
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\csi.exe.config
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\csi.rsp
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.AppContext.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Console.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.IO.Compression.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.IO.Pipes.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Security.Claims.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.ValueTuple.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Xml.XPath.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\vbc.exe
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\vbc.exe.config
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\vbc.rsp
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\VBCSCompiler.exe
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\EntityFramework.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\EntityFramework.SqlServer.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\PagedList.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\PagedList.Mvc.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Helpers.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Mvc.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Razor.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Webpages.Deployment.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Webpages.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Webpages.Razor.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\EntityFramework.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\EntityFramework.SqlServer.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\PagedList.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\PagedList.Mvc.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Razor.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Webpages.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Webpages.Deployment.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Webpages.Razor.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Helpers.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\System.Web.Mvc.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\obj\Debug\ShopPhone.csproj.AssemblyReference.cache
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\obj\Debug\ShopPhone.csproj.CoreCompileInputs.cache
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\obj\Debug\ShopPhone.csproj.CopyComplete
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\obj\Debug\ShopPhone.dll
+C:\Users\NguyenHung\Desktop\Project\ShopPhone\ShopPhone\obj\Debug\ShopPhone.pdb

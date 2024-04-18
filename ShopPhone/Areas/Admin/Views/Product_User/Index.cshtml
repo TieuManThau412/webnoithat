@@ -1,0 +1,82 @@
+﻿@{
+    /**/
+    var user = ViewData["User"] as List<ShopNoiThat.Models.Muser>;
+    var list = ViewData["list"] as List<ShopNoiThat.Models.Product_User>;
+    ViewBag.Title = "Danh sách đặt hàng theo yêu cầu";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+}
+@Html.Partial("~/Areas/Admin/Views/Shared/_topMenu.cshtml")
+@Html.Partial("~/Areas/Admin/Views/Shared/_leftMenu.cshtml")
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row m-0">
+                <div class="col-sm-6">
+                    <h1 class="m-0 text-dark">Danh sách đặt hàng theo yêu cầu</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="#">Home</a></li>
+                        <li class="breadcrumb-item active">Danh sách đặt hàng theo yêu cầu</li>
+                    </ol>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+        
+    <!-- /.content-header -->
+
+    <section class="container-fluid ">
+        <div class=" bg-white card  ">
+
+            <div class="row">
+                <div class="col-md-9  w-100 ">
+                </div>
+                <div class="col-md-3 ">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-12 p-3">
+
+                    <table id="myTable1" class="table  table-striped table-bordered dt-responsive nowrap">
+                        <thead>
+                            <tr>
+                                <th>Mã đặt hàng</th>
+                                <th>Tên khách hàng</th>
+                                <th>Tên sản phẩm</th>
+                                <th>Hình ảnh sản phẩm</th>
+                                <th>Mô tả</th>
+                                <th>Ngày đặt hàng</th>
+                                <th>SĐT</th>
+                                <th>Phản hồi</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+                            @foreach (var item in list)
+                            {
+                            <tr>
+                                <td> @item.Id</td>
+                                <td>@user.FirstOrDefault(g => g.ID == item.IdUser).fullname</td>
+                                <td>@item.NameProduct</td>
+                                <td><img src="~/Upload/@item.PhoTo" height="200" /></td>
+                                <td>@item.Description</td>
+                                <td>@item.CreateDate.ToString("dd/MM/yyyy")</td>
+                                <td>@user.FirstOrDefault(g => g.ID == item.IdUser).phone</td>
+                                <td><a href="/admin/Product_User/PhanHoi?id=@item.Id" class="class="breadcrumb-item active"">Phản hồi</a></td>
+                            </tr>}
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    </section>
+    </div>
+
+    <script>
+    $("#category").addClass("active");
+    </script>
+

@@ -1,0 +1,140 @@
+﻿@model ShopNoiThat.Models.Product_User
+@{
+    ViewBag.Title = "Edit";
+    Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
+    List<SelectListItem> listorder = new List<SelectListItem>();
+    List<SelectListItem> status = new List<SelectListItem>();
+    SelectListItem statusitem1 = new SelectListItem() { Value = "1", Text = "Ẩn" };
+    SelectListItem statusitem2 = new SelectListItem() { Value = "2", Text = "Hiện" };
+    status.Add(statusitem1);
+    status.Add(statusitem2);
+    List<SelectListItem> listcat = new List<SelectListItem>();
+    SelectListItem listcatitem;
+    foreach (var item in ViewBag.listCate)
+    {
+        listcatitem = new SelectListItem() { Value = item.ID + "", Text = item.name + "" };
+        listcat.Add(listcatitem);
+    }
+
+}
+@Html.Partial("~/Areas/Admin/Views/Shared/_topMenu.cshtml")
+@Html.Partial("~/Areas/Admin/Views/Shared/_leftMenu.cshtml")
+<!-- Content Wrapper. Contains page content -->
+<div class="content-wrapper">
+    <!-- Content Header (Page header) -->
+    <div class="content-header">
+        <div class="container-fluid">
+            <div class="row m-0 bg-light">
+                <div class="col-sm-6 ">
+                    <h1 class="m-0 text-dark">Phản hồi khách hàng</h1>
+                </div><!-- /.col -->
+                <div class="col-sm-6">
+                    <ol class="breadcrumb float-sm-right">
+                        <li class="breadcrumb-item"><a href="/Admin">Home</a></li>
+                        <li class="breadcrumb-item active">Phản hồi khách hàng</li>
+                    </ol>
+                </div><!-- /.col -->
+            </div><!-- /.row -->
+        </div><!-- /.container-fluid -->
+    </div>
+    <!-- /.content-header -->
+
+
+    <section class="pt-2">
+        @Html.Partial("_MessgeAlert")
+        <div class="container bg-white p-4 card">
+
+            @using (Html.BeginForm("PhanHoi", "Product_User", FormMethod.Post, new { enctype = "multipart/form-data" }))
+            {
+                @Html.AntiForgeryToken()
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                @Html.HiddenFor(model => model.Id)
+                @Html.HiddenFor(model => model.CreateDate)
+                @Html.HiddenFor(model => model.NameProduct)
+                @Html.HiddenFor(model => model.PhoTo)
+                @Html.HiddenFor(model => model.Description)
+                @Html.HiddenFor(model => model.IdUser)
+
+                <div class=" row ">
+                    <div class="col-md-4">  </div>
+                    <div class="col-md-4"> <h3 class="text-center font-weight-bold text-success ">Phản hồi sản phẩm</h3> </div>
+                    <div class="col-md-4 ">
+                        <div class="float-right">
+                            <button class="btn btn-sm bg-success text-white" type="submit"><i class="far fa-save"></i>Phản hồi</button>
+                            <a href="~/admin/category" class="btn btn-sm bg-danger text-white"><i class="far fa-window-close"></i> Hủy</a>
+                        </div>
+                    </div>
+                </div>
+                <div class=" row ">
+                    <div class="col-md-8">
+                        <div>
+                            <label for="psw"><span class="text-dark ">Giá tiền</span></label>
+                            @Html.EditorFor(model => model.Price, new { htmlAttributes = new { min = "1000", step = "1000", Type = "number", @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.Price, "", new { @class = "text-danger" })
+                        </div>
+                        <div>
+                            <label for="psw"><span class="text-dark ">Hình ảnh sản phẩm</span></label>
+                            <input type="file" class="form-control" name="UploadImage" />
+
+                        </div>
+                        <div>
+                            <label for="psw"><span class="text-dark col-form-label">Tên Sản Phẩm</span></label>
+                           <input name="ten" class="form-control" value="@Model.NameProduct"/>
+                        </div>
+                        <div>
+                            <label for="psw"><span class="text-dark ">Chi tiết sản phẩm</span></label>
+                            <textarea class = "form-control textarea" name="details" style = "width: 100%;font-size: 14px; line-height: 18px; border: 1px solid #dddddd; padding: 10px;"></textarea>
+                        </div>
+
+                    </div>
+                    <div class="col-md-4">
+                        <div>
+                            <label for="psw"><span class="text-dark ">Từ khóa SEO</span></label>
+                            <input name="metakey"class = "form-control" />
+                        </div>
+                        <div>
+                            <label for="psw"><span class="text-dark ">Mô ta SEO</span></label>
+                            <input name="metadesc" class = "form-control" />
+                        </div>
+                        <label for="psw"><span class="text-dark ">Chọn loại sản phẩm</span></label>
+                        <div>
+                            <select name="catid" class="form-control">
+                                @foreach (var item in listcat)
+                                {
+                                    <option value="@item.Value">@item.Text</option>
+                                }
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="psw"><span class="text-dark ">Nhóm sản phẩm</span></label>
+                            <select class="form-control" name="Submenu">
+                                <option value="19">Khuyến mại</option>
+                                <option value="20">Không khuyến mại</option>
+                            </select>
+                        </div>
+                        
+                        <div>
+                            <label for="psw"><span class="text-dark ">Phần Trăm Khuyến mãi (mặc định 0%)</span></label>
+                            <input name="pricesale"class = "form-control" type="number" max="100" min="0"/>
+                        </div>
+                        <div>
+                            <label for="psw"><span class="text-dark ">Số lượng</span></label>
+                            <input name="number"class = "form-control" type="number" min="1" />
+                        </div>
+                    </div>
+
+
+                </div>
+            }
+        </div>
+    </section>
+
+    <script>
+        $(function () {
+            // Summernote
+            $('.textarea').summernote()
+        })
+    </script>
+    <script>
+        $("#product").addClass("active");
+    </script>
